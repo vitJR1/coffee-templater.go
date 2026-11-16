@@ -24,7 +24,7 @@ byte for byte identical to the same document rendered from Node.js.
 go get github.com/vitJR1/coffee-templater.go
 ```
 
-Requires Go 1.23 or later.
+Requires Go 1.23 or later. A detailed guide in Russian is in [DOCS.md](DOCS.md).
 
 ## Quick start
 
